@@ -78,11 +78,6 @@ A comprehensive Flutter application built for the **Flutter Developer Assessment
 - **Time Period Selection** - Switch between different return periods
 
 
-## 📱 App Screenshots
-
-| Authentication Flow | Dashboard | Charts Analytics | Watchlist Management |
-|:---:|:---:|:---:|:---:|
-| ![Auth](https://via.placeholder.com/200x400/000000/FFFFFF?text=Auth+Flow) | ![Dashboard](https://via.placeholder.com/200x400/000000/FFFFFF?text=Dashboard) | ![Charts](https://via.placeholder.com/200x400/000000/FFFFFF?text=Charts) | ![Watchlist](https://via.placeholder.com/200x400/000000/FFFFFF?text=Watchlist) |
 
 
 
