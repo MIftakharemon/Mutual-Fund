@@ -83,21 +83,25 @@ A comprehensive Flutter application built for the **Flutter Developer Assessment
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/1.jpg?raw=true" width="150" style="margin: 10px;">
+   <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/8.jpg?raw=true" width="150" style="margin: 10px;">
+  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/9.jpg?raw=true" width="150" style="margin: 10px;">
+   <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/1.jpg?raw=true" width="150" style="margin: 10px;">
   <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/2.jpg?raw=true" width="150" style="margin: 10px;">
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/3.jpg?raw=true" width="150" style="margin: 10px;">
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/4.jpg?raw=true" width="150" style="margin: 10px;">
+
   <br>
 
   <!-- Row 2 -->
+  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/3.jpg?raw=true" width="150" style="margin: 10px;">
+  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/4.jpg?raw=true" width="150" style="margin: 10px;">
   <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/5.jpg?raw=true" width="150" style="margin: 10px;">
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/6.jpg?raw=true" width="150" style="margin: 10px;">
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/7.jpg?raw=true" width="150" style="margin: 10px;">
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/8.jpg?raw=true" width="150" style="margin: 10px;">
+
+
+
   <br>
 
   <!-- Row 3 -->
-  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/9.jpg?raw=true" width="150" style="margin: 10px;">
+  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/6.jpg?raw=true" width="150" style="margin: 10px;">
+  <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/7.jpg?raw=true" width="150" style="margin: 10px;">
   <img src="https://github.com/MIftakharemon/Mutual-Fund/blob/main/mutualFundSS/10.jpg?raw=true" width="150" style="margin: 10px;">
 </p>
 
