@@ -1,4 +1,4 @@
-# 🚀 Mutual Fund Watchlist & Performance Analytics
+# 🚀 DhanSaarthi - Mutual Fund Watchlist & Performance Analytics
 
 A comprehensive Flutter application built for the **Flutter Developer Assessment Task**, showcasing advanced mutual fund investment tracking, performance analytics, and watchlist management capabilities.
 
@@ -76,6 +76,12 @@ A comprehensive Flutter application built for the **Flutter Developer Assessment
 - **Color-coded Returns** - Green for positive, red for negative returns
 - **Interactive Grid** - Tap to view detailed fund information
 - **Time Period Selection** - Switch between different return periods
+
+
+## 📱 App Screenshots
+
+(https://github.com/MIftakharemon/Mutual-Fund/commit/df3ac636c6f91169f22dfb71b0909d7893a6b22b#r157899271)
+
 
 
 
