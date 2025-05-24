@@ -80,36 +80,7 @@ A comprehensive Flutter application built for the **Flutter Developer Assessment
 
 ## 📱 App Screenshots
 
-## 🌿 Screenshots
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="file:///Users/mdiftakharahmedemon/Documents/mutual%20fund%20screenshots/PHOTO-2025-05-24-10-43-49%203.jpg" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/2.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/3.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/4.png" width="150" style="margin: 10px;">
-  <br>
-
-  <!-- Row 2 -->
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/5.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/6.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/7.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/8.png" width="150" style="margin: 10px;">
-  <br>
-
-  <!-- Row 3 -->
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/9.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/10.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/12.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/13.png" width="150" style="margin: 10px;">
-  <br>
-
-  <!-- Row 4 -->
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/14.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/15.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/16.png" width="150" style="margin: 10px;">
-  <img src="https://github.com/Salman-Farid/planty/blob/main/app_screen_shots/17.png" width="150" style="margin: 10px;">
-</p>
 
 This is screenshots part of my readme file. but size of the screenshots is looking very weird. I want them in a perfect shape in 2 row
 
