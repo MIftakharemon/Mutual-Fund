@@ -194,7 +194,7 @@ Android Studio / VS Code
 
 ```shellscript
 # 1. Clone the repository
-git clone [dhan-saarthi](https://github.com/MIftakharemon/Mutual-Fund)
+git clone https://github.com/MIftakharemon/Mutual-Fund
 
 # 3. Install dependencies
 flutter pub get
